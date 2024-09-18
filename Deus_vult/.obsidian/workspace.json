@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "98b3deb45a5d63f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "526d6c8b7289d701",
+        "type": "tabs",
+        "dimension": 69.7452229299363,
+        "children": [
+          {
+            "id": "eb118a970dee0ae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tesis/Definiciones 17_08_2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c47895d063be4d09",
+        "type": "tabs",
+        "dimension": 30.254777070063692,
+        "children": [
+          {
+            "id": "42337f28e6c123ef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e359220e2aaf2bc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "44305d077596e6e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4563f203f5885f5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52e6bc6cf9458a58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cedfb4033cd0a8fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0d59f36641bc85f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85022b7a03653d0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tesis/Definiciones 17_08_2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c0fe490053e3e28",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tesis/Definiciones 17_08_2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c71511fffd036a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf919664333850db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tesis/Definiciones 17_08_2024.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eb118a970dee0ae8",
+  "lastOpenFiles": [
+    "Tesis/Definiciones 17_08_2024.md",
+    "Tesis/Doomed Factory.md",
+    "Notas/Graficos.md",
+    "Untitled/Untitled.md",
+    "Tesis"
+  ]
+}
