@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deus_vult/Notas/Graficos_1.md",
+                "file": "Deus_vult/InteligenciaArtificial/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deus_vult/Notas/Graficos_1.md",
+                "file": "Deus_vult/InteligenciaArtificial/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deus_vult/Notas/Graficos_1.md",
+                "file": "Deus_vult/InteligenciaArtificial/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deus_vult/Notas/Graficos_1.md"
+                "file": "Deus_vult/InteligenciaArtificial/TODO.md"
               }
             }
           },
@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -162,8 +163,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06a81e0159c5d232",
+  "active": "ab8da3fb4e299c1d",
   "lastOpenFiles": [
+    "Deus_vult/Notas/Graficos_1.md",
+    "Deus_vult/InteligenciaArtificial/TODO.md",
+    "Deus_vult/InteligenciaArtificial",
     "Deus_vult/Notas/Repaso Parcial 1.md",
     "README.md"
   ]
