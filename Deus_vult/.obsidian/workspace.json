@@ -6,7 +6,7 @@
       {
         "id": "526d6c8b7289d701",
         "type": "tabs",
-        "dimension": 69.7452229299363,
+        "dimension": 57.15811965811965,
         "children": [
           {
             "id": "eb118a970dee0ae8",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesis/Definiciones 17_08_2024.md",
+                "file": "Notas/Graficos_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "c47895d063be4d09",
         "type": "tabs",
-        "dimension": 30.254777070063692,
+        "dimension": 42.84188034188034,
         "children": [
           {
             "id": "42337f28e6c123ef",
@@ -72,12 +72,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c2b59f6a8db4f939",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cedfb4033cd0a8fd",
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tesis/Definiciones 17_08_2024.md",
+                "file": "Notas/Graficos_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tesis/Definiciones 17_08_2024.md",
+                "file": "Notas/Graficos_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,16 +141,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tesis/Definiciones 17_08_2024.md"
+                "file": "Notas/Graficos_1.md"
               }
             }
+          },
+          {
+            "id": "f12ebe71a566cd00",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6128f666b8fd2237",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,14 +175,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb118a970dee0ae8",
+  "active": "f12ebe71a566cd00",
   "lastOpenFiles": [
+    "Notas/Graficos.md",
     "Tesis/Definiciones 17_08_2024.md",
     "Tesis/Doomed Factory.md",
-    "Notas/Graficos.md",
     "Untitled/Untitled.md",
     "Tesis"
   ]
