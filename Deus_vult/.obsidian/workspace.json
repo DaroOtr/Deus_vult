@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Graficos_1.md",
+                "file": "InteligenciaArtificial/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Graficos_1.md",
+                "file": "InteligenciaArtificial/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Graficos_1.md",
+                "file": "InteligenciaArtificial/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Graficos_1.md"
+                "file": "InteligenciaArtificial/TODO.md"
               }
             }
           },
@@ -179,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f12ebe71a566cd00",
+  "active": "eb118a970dee0ae8",
   "lastOpenFiles": [
+    "Notas/Graficos_1.md",
+    "InteligenciaArtificial/TODO.md",
+    "InteligenciaArtificial",
     "Notas/Graficos.md",
     "Tesis/Definiciones 17_08_2024.md",
     "Tesis/Doomed Factory.md",
