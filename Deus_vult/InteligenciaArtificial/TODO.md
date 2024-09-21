@@ -14,7 +14,7 @@ Deben tener una build subida como release en su repositorio para la corrección.
 
 
 
-Condición mínima de aprobación (0 - 4)
+==Condición mínima de aprobación (0 - 4)==
 
 
 
@@ -38,17 +38,17 @@ Todo lo entregado deberá estar alojado en un repositorio GIT público, de lo co
 
 - [ ] Si un aldeano no puede comer, esperará a que haya comida disponible para seguir trabajando.
 
-- [ ] En caso de que la mina en la que el aldeano estaba trabajando o a la que se estaba dirigiendo se agote irá a la mina que esté más cercana a su posición.
+- [x] En caso de que la mina en la que el aldeano estaba trabajando o a la que se estaba dirigiendo se agote irá a la mina que esté más cercana a su posición.
 
 - [ ] Las caravanas sólo proveen de comida a las minas donde un aldeano está trabajando.
 
-- [ ] En cualquier momento puede sonar una alarma (un botón en la UI) que hace que todos los agentes abandonen lo que están haciendo y regresen a refugiarse al centro urbano.
+- [x] En cualquier momento puede sonar una alarma (un botón en la UI) que hace que todos los agentes abandonen lo que están haciendo y regresen a refugiarse al centro urbano.
 
 ###### ==En cualquier momento, si la alarma está dada, se puede cancelar la alarma (con otro botón en la UI) que haga que:==
 
-- [ ] Los agentes que estaban dentro del centro urbano salgan y regresen al trabajo.
+- [x] Los agentes que estaban dentro del centro urbano salgan y regresen al trabajo.
 
-- [ ] Los que no habían llegado a refugiarse aún retoman sus labores
+- [x] Los que no habían llegado a refugiarse aún retoman sus labores
 
 
 - [x] Los agentes manejan su comportamiento con una FSM.

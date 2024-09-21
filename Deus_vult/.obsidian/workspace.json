@@ -6,7 +6,6 @@
       {
         "id": "526d6c8b7289d701",
         "type": "tabs",
-        "dimension": 57.15811965811965,
         "children": [
           {
             "id": "eb118a970dee0ae8",
@@ -18,21 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c47895d063be4d09",
-        "type": "tabs",
-        "dimension": 42.84188034188034,
-        "children": [
-          {
-            "id": "42337f28e6c123ef",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -96,6 +80,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "42337f28e6c123ef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6128f666b8fd2237",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "85022b7a03653d0e",
             "type": "leaf",
             "state": {
@@ -152,21 +152,13 @@
               "type": "git-history-view",
               "state": {}
             }
-          },
-          {
-            "id": "6128f666b8fd2237",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +171,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb118a970dee0ae8",
+  "active": "6128f666b8fd2237",
   "lastOpenFiles": [
-    "Notas/Graficos_1.md",
     "InteligenciaArtificial/TODO.md",
+    "Notas/Graficos_1.md",
     "InteligenciaArtificial",
     "Notas/Graficos.md",
     "Tesis/Definiciones 17_08_2024.md",
