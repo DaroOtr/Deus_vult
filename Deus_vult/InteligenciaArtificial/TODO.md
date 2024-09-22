@@ -28,11 +28,11 @@ Todo lo entregado deberá estar alojado en un repositorio GIT público, de lo co
 
 - [x] El mapa cuenta con minas de oro dispersas en nodos aleatorios al momentos de generarse el mapa, la cantidad es modificable por el usuario.
 
-- [ ] En un punto del mapa hay un “Centro urbano” que es el encargado de generar dos tipos de agentes, “aldeanos” y “caravanas”. 
+- [x] En un punto del mapa hay un “Centro urbano” que es el encargado de generar dos tipos de agentes, “aldeanos” y “caravanas”. 
 
 - [ ] Al iniciar la simulación, los aldeanos van a recolectar oro a la mina más cercana, extraen uno de oro cada cierta cantidad de tiempo, y cada tres de oro extraído necesitan comer una unidad de comida para poder seguir trabajando.
 
-- [ ] La comida es llevada por las caravanas desde el centro urbano hasta las minas a razón de diez por viaje.
+- [x] La comida es llevada por las caravanas desde el centro urbano hasta las minas a razón de diez por viaje.
 
 - [x] En el momento de que el aldeano tenga 15 de oro en su inventario, regresará al centro urbano a depositarlo.
 
@@ -53,7 +53,7 @@ Todo lo entregado deberá estar alojado en un repositorio GIT público, de lo co
 
 - [x] Los agentes manejan su comportamiento con una FSM.
 
-- [ ] Cada uno de los tipos de agentes es capaz de navegar por el mapa utilizando el algoritmo de A*. Cada tipo de agente aplica distintos pesos a la transición entre tipos de nodos y puede o no atravesar distintos tipos de nodos.
+- [x] Cada uno de los tipos de agentes es capaz de navegar por el mapa utilizando el algoritmo de A*. Cada tipo de agente aplica distintos pesos a la transición entre tipos de nodos y puede o no atravesar distintos tipos de nodos.
 
 - [ ] Los agentes mineros tienen calculado un Diagrama de Voronoi (o polígono de thiessen) para saber cual es la mina de oro más cercana desde cualquier punto del mapa. Este no tiene en cuenta la dificultad de transitar los nodos dentro de las áreas de los polígonos.
 
