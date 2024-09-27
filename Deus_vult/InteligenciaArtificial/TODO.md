@@ -30,17 +30,17 @@ Todo lo entregado deberá estar alojado en un repositorio GIT público, de lo co
 
 - [x] En un punto del mapa hay un “Centro urbano” que es el encargado de generar dos tipos de agentes, “aldeanos” y “caravanas”. 
 
-- [ ] Al iniciar la simulación, los aldeanos van a recolectar oro a la mina más cercana, extraen uno de oro cada cierta cantidad de tiempo, y cada tres de oro extraído necesitan comer una unidad de comida para poder seguir trabajando.
+- [x] Al iniciar la simulación, los aldeanos van a recolectar oro a la mina más cercana, extraen uno de oro cada cierta cantidad de tiempo, y cada tres de oro extraído necesitan comer una unidad de comida para poder seguir trabajando.
 
 - [x] La comida es llevada por las caravanas desde el centro urbano hasta las minas a razón de diez por viaje.
 
 - [x] En el momento de que el aldeano tenga 15 de oro en su inventario, regresará al centro urbano a depositarlo.
 
-- [ ] Si un aldeano no puede comer, esperará a que haya comida disponible para seguir trabajando.
+- [x] Si un aldeano no puede comer, esperará a que haya comida disponible para seguir trabajando.
 
 - [x] En caso de que la mina en la que el aldeano estaba trabajando o a la que se estaba dirigiendo se agote irá a la mina que esté más cercana a su posición.
 
-- [ ] Las caravanas sólo proveen de comida a las minas donde un aldeano está trabajando.
+- [x] Las caravanas sólo proveen de comida a las minas donde un aldeano está trabajando.
 
 - [x] En cualquier momento puede sonar una alarma (un botón en la UI) que hace que todos los agentes abandonen lo que están haciendo y regresen a refugiarse al centro urbano.
 
@@ -64,7 +64,7 @@ El código de los patrones y técnicas utilizadas (FSM, Pathfinding, ECS, Flocki
 
 
 
-- [ ] Todo aquello que pueda ser paralelizable, debe ser paralelizado.
+- [x] Todo aquello que pueda ser paralelizable, debe ser paralelizado.
 
 - [ ] Si varios agentes del mismo tipo se están moviendo cerca, evitan superponerse utilizando el algoritmo de Flocking, los parámetros de alignment, cohesion, separation y direction de cada boid son calculados en un sistema de ECS.
 
