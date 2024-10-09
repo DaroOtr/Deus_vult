@@ -7,3 +7,12 @@
 	Set Up del proyecto (Unity)
 	Set Up del proyecto (Playstore)
 	Armado de build de testeo
+09/10 : 07:00hs
+	Armado de build de testeo con tomas
+	Fix Java JDK Building Errors 
+	Add de Productos en google playstore
+	Add purchase logic
+	Add player coin Adition
+	Add Purchase Event
+	Add Purchase Verification
+	Add Purchase Fail Verification
