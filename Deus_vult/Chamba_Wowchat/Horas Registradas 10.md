@@ -16,3 +16,11 @@
 	Add Purchase Event
 	Add Purchase Verification
 	Add Purchase Fail Verification
+10/10 : 5:00hs
+	conectar el I-AP de unity con los eventos y el systema que arme
+	test unity I-AP Functions
+	add coins to player
+	Fix player coins update
+	Fix Products IDs
+	Remove Unwanted IAP Component
+	Fix Id Initialization
