@@ -34,3 +34,7 @@
 	Add Camera position and rotation transition
 	Add click amount verification
 	Add Player Coins Save To server
+	Fix Camera position Bug
+	Fix Avatar Position BUG
+	Change camera change position trigger
+	
