@@ -27,9 +27,10 @@
 	Remove Unwanted IAP Component
 	Fix Id Initialization
 	
-11/10 : 6:00hs
+11/10 : 7:00hs
 	Add New Camera Positions
 	Add new Camera Rotation
 	Add Avatar AvatarTouchComponent
 	Add Camera position and rotation transition
 	Add click amount verification
+	Add Player Coins Save To server
