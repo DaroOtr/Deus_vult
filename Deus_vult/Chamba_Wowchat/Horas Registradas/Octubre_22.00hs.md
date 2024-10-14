@@ -37,4 +37,8 @@
 	Fix Camera position Bug
 	Fix Avatar Position BUG
 	Change camera change position trigger
-	
+14/10 : 3:00hs
+	Fix Build Errors
+	Change Android SDK Build Tools
+	Fix Android SDK Build Errors
+	Down load Project Versión 
