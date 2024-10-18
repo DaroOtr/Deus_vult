@@ -42,3 +42,12 @@
 	Change Android SDK Build Tools
 	Fix Android SDK Build Errors
 	Down load Project Versión 
+18/10 : 6:00hs
+	Add Screen Orientation Detection
+	Add change FOV on Screen Orientation detection
+	Add Switch Cases On Screen Orientation Change 
+	Add portraitFovValue
+	Add landscapeFovValue
+	Change Default  device Orientation to Auto
+	Add Screen Rotation Suport
+	Fix UI BUgs
