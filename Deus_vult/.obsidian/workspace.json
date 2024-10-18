@@ -16,10 +16,25 @@
                 "file": "Chamba_Wowchat/Proyect Data/Unity.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Unity"
+            }
+          },
+          {
+            "id": "1e5a7a8de9ad4943",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -84,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -92,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -109,7 +134,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Unity"
             }
           },
           {
@@ -121,7 +148,9 @@
                 "file": "Chamba_Wowchat/Proyect Data/Unity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Unity"
             }
           },
           {
@@ -132,7 +161,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -142,7 +173,9 @@
               "type": "outline",
               "state": {
                 "file": "Chamba_Wowchat/Proyect Data/Unity.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Unity"
             }
           },
           {
@@ -150,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -171,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb118a970dee0ae8",
+  "active": "1e5a7a8de9ad4943",
   "lastOpenFiles": [
     "Chamba_Wowchat/Proyect Data/Unisave.md",
     "Chamba_Wowchat/Proyect Data/Numeros de Prueba para la App.md",
