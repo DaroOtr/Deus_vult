@@ -51,3 +51,12 @@
 	Change Default  device Orientation to Auto
 	Add Screen Rotation Suport
 	Fix UI BUgs
+21/10 : 5:00hs
+	Fix Build Apk Settings
+	Fix Gradle version
+	Add Input UI Check For camera Change
+	investigate sending images through chat (W.I.P)
+	Fix Camera Position Bug
+	Fix Camera Offset Bug
+	Fix UI panel Bug
+	Fix Input Detection Fot the camera
