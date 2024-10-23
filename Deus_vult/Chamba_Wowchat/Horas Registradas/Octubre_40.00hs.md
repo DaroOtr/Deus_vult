@@ -60,3 +60,9 @@
 	Fix Camera Offset Bug
 	Fix UI panel Bug
 	Fix Input Detection Fot the camera
+23/10 : 4:00hs
+	Fix Shop Button Text
+	Fix Shop Button Interaction
+	Fix Shop Accept Purchase Button Scale
+	Change Camera Zoom Speed
+	Change Shop Coins Positions And Sclae (W.I.P)
