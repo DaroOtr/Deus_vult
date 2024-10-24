@@ -66,3 +66,11 @@
 	Fix Shop Accept Purchase Button Scale
 	Change Camera Zoom Speed
 	Change Shop Coins Positions And Sclae (W.I.P)
+24/10 : 6:00hs
+	Change Shop Coins Positions And Sclae (End)
+	Fix Shop Grid Params
+	Fix Accept Purchase Button Interaction
+	Fix Shop Screen Resolution Bug
+	Fix Store Buy Cell Prefab
+	Fix Camera Input Detection on Avatar Touch Component
+	Change Camera Zoom Behaviour (W.I.P)
