@@ -65,9 +65,9 @@
 	Fix Shop Button Interaction
 	Fix Shop Accept Purchase Button Scale
 	Change Camera Zoom Speed
-	Change Shop Coins Positions And Sclae (W.I.P)
+	Change Shop Coins Positions And Scale (W.I.P)
 24/10 : 6:00hs
-	Change Shop Coins Positions And Sclae (End)
+	Change Shop Coins Positions And Scale (End)
 	Fix Shop Grid Params
 	Fix Accept Purchase Button Interaction
 	Fix Shop Screen Resolution Bug
