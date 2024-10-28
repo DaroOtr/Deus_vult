@@ -74,3 +74,11 @@
 	Fix Store Buy Cell Prefab
 	Fix Camera Input Detection on Avatar Touch Component
 	Change Camera Zoom Behaviour (W.I.P)
+25/10 : 4:00hs
+	Add New camera zoom sistem
+	Add slider control for camera zoom
+	Add Camera zoom limits
+	Add Camera zoom transition
+	Change Camera zoom imput 
+	Remove Camera SideScrool
+	Fix Room Camera setings (W.I.P)

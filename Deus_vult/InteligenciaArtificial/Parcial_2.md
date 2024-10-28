@@ -22,7 +22,7 @@ La entrega será el repositorio en sí, pero además debe haber varios archivos 
 
   
 
-Condición mínima de aprobación (0 - 4)
+==Condición mínima de aprobación (0 - 4)==
 
 - [ ] Existen tres tipos de agentes; herbívoros, carnívoros y carroñeros. Los cuales aprenden a desempeñarse en la simulación mediante el uso de algoritmos genéticos.
 
@@ -75,7 +75,7 @@ El comportamiento de los agentes carroñeros es el siguiente:
 
   
 
-Condición mínima para promoción (4 - 7)
+==Condición mínima para promoción (4 - 7)==
 
 - [ ] Al inicio de la generación, se crea un diagrama de voronoi con las plantas en escena, desde la cual se le da la información a los agentes herbívoros de que planta tienen más cerca. Cuando una planta desaparece el diagrama se recalcula.
 
@@ -85,7 +85,7 @@ Condición mínima para promoción (4 - 7)
 
   
 
-Examen completo (7 - 10)
+==Examen completo (7 - 10)==
 
 - [ ] Tras cada turno, el diagrama de voronoi tiene en cuenta cuántos agentes carnívoros hay en cada área para recalcular los límites.
 
