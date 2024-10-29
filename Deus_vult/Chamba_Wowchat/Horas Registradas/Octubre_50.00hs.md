@@ -82,3 +82,12 @@
 	Change Camera zoom imput 
 	Remove Camera SideScrool
 	Fix Room Camera setings (W.I.P)
+28/10 : 4:00hs
+	Fix Room Camera setings (End)
+	Fix CameraControl Zoom Behaviour
+	Change Camera Movement Behaviour
+	Change Camera Zoom Behaviour
+	Remove Slier Zoom
+	Add Camera limits on each room
+	Adjust Camera Limits
+	Adjust Camera Settings
