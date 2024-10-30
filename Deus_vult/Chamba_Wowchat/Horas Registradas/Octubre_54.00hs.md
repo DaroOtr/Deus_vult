@@ -91,3 +91,14 @@
 	Add Camera limits on each room
 	Adjust Camera Limits
 	Adjust Camera Settings
+30/10 : 6:00
+	Fix Camera Position Bug
+	Fix Camera Position Check
+	Fix Camera Coroutine Check
+	Fix Camera Transition
+	Clean PinchZoom Scipt Code
+	Fix CameraSettings Multiple Calls Bug
+	Fix Camera Orientation Bug
+	Fix Camera Zoom whitout the code Check
+	Add Room Camera Parametters
+	Add Camera Controller Documentation
