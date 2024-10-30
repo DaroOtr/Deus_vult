@@ -37,11 +37,13 @@
 	Fix Camera position Bug
 	Fix Avatar Position BUG
 	Change camera change position trigger
+	
 14/10 : 3:00hs
 	Fix Build Errors
 	Change Android SDK Build Tools
 	Fix Android SDK Build Errors
 	Down load Project Versión 
+	
 18/10 : 6:00hs
 	Add Screen Orientation Detection
 	Add change FOV on Screen Orientation detection
@@ -51,6 +53,7 @@
 	Change Default  device Orientation to Auto
 	Add Screen Rotation Suport
 	Fix UI BUgs
+	
 21/10 : 5:00hs
 	Fix Build Apk Settings
 	Fix Gradle version
@@ -60,12 +63,14 @@
 	Fix Camera Offset Bug
 	Fix UI panel Bug
 	Fix Input Detection Fot the camera
+	
 23/10 : 4:00hs
 	Fix Shop Button Text
 	Fix Shop Button Interaction
 	Fix Shop Accept Purchase Button Scale
 	Change Camera Zoom Speed
 	Change Shop Coins Positions And Scale (W.I.P)
+	
 24/10 : 6:00hs
 	Change Shop Coins Positions And Scale (End)
 	Fix Shop Grid Params
@@ -74,6 +79,7 @@
 	Fix Store Buy Cell Prefab
 	Fix Camera Input Detection on Avatar Touch Component
 	Change Camera Zoom Behaviour (W.I.P)
+	
 25/10 : 4:00hs
 	Add New camera zoom sistem
 	Add slider control for camera zoom
@@ -82,6 +88,7 @@
 	Change Camera zoom imput 
 	Remove Camera SideScrool
 	Fix Room Camera setings (W.I.P)
+	
 28/10 : 4:00hs
 	Fix Room Camera setings (End)
 	Fix CameraControl Zoom Behaviour
@@ -91,6 +98,7 @@
 	Add Camera limits on each room
 	Adjust Camera Limits
 	Adjust Camera Settings
+	
 30/10 : 6:00
 	Fix Camera Position Bug
 	Fix Camera Position Check
