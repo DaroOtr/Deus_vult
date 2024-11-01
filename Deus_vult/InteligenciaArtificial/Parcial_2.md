@@ -4,7 +4,7 @@ Inteligencia Artificial
 
 Segundo parcial Inteligencia Artificial
 
-Fecha 14/11/2024
+Fecha 21/11/2024
 
 El parcial constara de una demostración en Image y defensa del código in situ.
 
