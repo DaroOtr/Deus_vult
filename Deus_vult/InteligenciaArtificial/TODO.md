@@ -84,3 +84,14 @@ El código de los patrones y técnicas utilizadas (FSM, Pathfinding, ECS, Flocki
 - [ ] Se puede cambiar el algoritmo de pathfinding que utilizan cada agente en particular en tiempo real.
 
 - [ ] Todos los comportamientos de los agentes funcionan con ECS, pero manteniendo la separación de estados de la FSM.
+
+
+
+
+
+Cada componente deveria tener un mismo tipo de dato 
+
+Neuronal Netwok 
+Neuron Layer
+Neuron
+Genoma
