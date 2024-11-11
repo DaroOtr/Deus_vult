@@ -11,3 +11,12 @@
 		Merge main scene SebasDev into MainScene [02:00hs]
 		Fix FurnitureGroupIdentifiedComponent [01:20hs]
 		Fix ChangeFornitures on all rooms [00:30hs]
+		
+11/11 : 6:30hs 
+	Test Build Apk dario Phone / Emulator [02:00hs]
+	Test Store After Merge [1:30hs]
+	Test Game After Merge [00:30hs]
+	Test Rooms After Merge [00:30hs]
+	Fix de la rama para el merge con dev (Llamada END) [02:00hs]
+		Test App Performace [00:30hs]
+		Plan New Task To improve performance (Llamada) [01:30hs]
