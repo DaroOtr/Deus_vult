@@ -20,3 +20,6 @@
 	Fix de la rama para el merge con dev (Llamada END) [02:00hs]
 		Test App Performace [00:30hs]
 		Plan New Task To improve performance (Llamada) [01:30hs]
+		
+14/11 : 5:00hs 
+	Memory Profiler Task (W.I.P) [05:00hs]
