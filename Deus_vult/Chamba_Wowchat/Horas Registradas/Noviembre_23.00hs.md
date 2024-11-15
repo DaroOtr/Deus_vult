@@ -23,3 +23,7 @@
 		
 14/11 : 5:00hs 
 	Memory Profiler Task (W.I.P) [05:00hs]
+	
+15/11 : 4:00hs 
+	General Memory profiling Task  [03:00hs]
+	Armado y pulido del documento [01:00hs]
