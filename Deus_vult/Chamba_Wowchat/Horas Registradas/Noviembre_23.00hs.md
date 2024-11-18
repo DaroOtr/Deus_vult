@@ -27,3 +27,7 @@
 15/11 : 4:00hs 
 	General Memory profiling Task  [03:00hs]
 	Armado y pulido del documento [01:00hs]
+	
+18/11 : 4:00hs 
+	Deep Memory profiling Task  [03:00hs]
+	Armado y pulido del documento [01:00hs]
