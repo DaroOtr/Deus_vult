@@ -32,5 +32,5 @@
 	Deep Memory profiling Task  [09:00hs]
 	Armado y pulido del documento [02:00hs]
 
-20/11 : 2:00hs 
-	Reunion de arquitectura de Room Manager   [02:00hs]
+20/11 : 1:30hs 
+	Reunion de arquitectura de Room Manager   [01:30hs]
