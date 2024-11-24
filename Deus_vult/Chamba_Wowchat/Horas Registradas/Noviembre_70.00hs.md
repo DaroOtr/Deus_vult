@@ -35,5 +35,5 @@
 20/11 : 1:30hs 
 	Reunion de arquitectura de Room Manager   [01:30hs]
 	
-20/11 : 34:00hs 
+20/11 : 34:30hs 
 	Room Generator Task   [34:30hs]
