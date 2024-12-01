@@ -34,6 +34,15 @@
 
 20/11 : 1:30hs 
 	Reunion de arquitectura de Room Manager   [01:30hs]
-	
-20/11 : 34:30hs 
-	Room Generator Task   [34:30hs]
+
+22/11 ,  04/12 : 36:30hs
+	Room Generator Task   [36:30hs]
+		Crear sistema dinamico de modificacion de muebles dentro de la room [05:00hs]
+		Crear comportamiento nuevo de camara en Room Generator [04:00hs]
+		Persistir datos en scriptable objects [04:00hs]
+		Crear prefabs del Room Generator [04:00hs]
+		Crear luces estaticas para las nuevas rooms [02:30hs]
+		Crear nuevo sistema de cargar de texturas  y Shaders [05:30hs]
+		Seteo de colores y texturas en paredes [02:30hs]
+		Integracion de Room Manager a la Main Scene [03:00hs]
+		Solucion de posibles bugs finalizado el room generator [06:00hs]
