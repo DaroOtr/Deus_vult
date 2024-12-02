@@ -45,4 +45,5 @@
 		Crear nuevo sistema de cargar de texturas  y Shaders [05:30hs]
 		Seteo de colores y texturas en paredes [02:30hs]
 		Integracion de Room Manager a la Main Scene [03:00hs]
-		Solucion de posibles bugs finalizado el room generator [06:00hs]
+		Solucion de posibles bugs finalizado el room generator [03:00hs]
+		Arreglar configuracion de la escena y null reference [03:00hs]
