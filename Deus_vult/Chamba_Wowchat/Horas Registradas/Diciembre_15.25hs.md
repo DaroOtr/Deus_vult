@@ -8,5 +8,6 @@ Horas en deuda [06.00hs]
 		Añadir Funcionalidad de boton a las player coins (Inicio) [4:00hs]
 		
 13/12 : 0:00hs 
-	Refactor Tienda [02:00hs]
+	Refactor Tienda [02:25hs]
 		Añadir Funcionalidad de boton a las player coins (Fin) [2:00hs]
+		Añadir Boton de promo y free coins [0:25hs]
