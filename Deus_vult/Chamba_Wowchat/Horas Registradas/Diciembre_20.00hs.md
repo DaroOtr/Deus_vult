@@ -13,8 +13,8 @@ Horas en deuda [06.00hs]
 		Añadir Boton de promo y free coins [0:25hs]
 		
 16/12 : 2:25hs 
-	Refactor Tienda [02:25hs]
-		Fix Coins Position [2:00hs]
-		Fix Boton de promo y free coins scale and position [0:25hs]
-		Add Promo Button Logic and Back end Price [3:00hs]
-		Add Free Coins Button logic and Position [3:00hs]
+	Refactor Tienda [04:35hs]
+		Fix Coins Position [00:25hs]
+		Fix Boton de promo y free coins scale and position [0:35hs]
+		Add Promo Button Logic and Back end Price [1:10hs]
+		Add Free Coins Button logic and Position [2:25hs]
