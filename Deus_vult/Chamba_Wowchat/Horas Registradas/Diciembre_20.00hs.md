@@ -20,6 +20,6 @@ Horas en deuda [06.00hs]
 		Add Free Coins Button logic and Position [2:25hs]
 
 17/12 : 6:00hs 
-	Fix Room Generator Save Config [00:00hs]
-	Fix Room Generator Color Change [00:00hs]
-	Fix Room Generator Reset Room [00:00hs]
+	Fix Room Generator Save Config [01:00hs]
+	Fix Room Generator Color Change [01:00hs]
+	Fix Room Generator Reset Room [04:00hs]
