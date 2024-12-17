@@ -18,3 +18,8 @@ Horas en deuda [06.00hs]
 		Fix Boton de promo y free coins scale and position [0:35hs]
 		Add Promo Button Logic and Back end Price [1:10hs]
 		Add Free Coins Button logic and Position [2:25hs]
+
+17/12 : 6:00hs 
+	Fix Room Generator Save Config [00:00hs]
+	Fix Room Generator Color Change [00:00hs]
+	Fix Room Generator Reset Room [00:00hs]
