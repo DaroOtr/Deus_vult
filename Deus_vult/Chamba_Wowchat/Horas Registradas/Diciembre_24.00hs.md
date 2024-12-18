@@ -23,3 +23,8 @@ Horas en deuda [06.00hs]
 	Fix Room Generator Save Config [01:00hs]
 	Fix Room Generator Color Change [01:00hs]
 	Fix Room Generator Reset Room [04:00hs]
+
+18/12 : 4:00hs 
+	Merge Store Refactor Feature Branch into Develop [01:00hs]
+	Merge Room Generator Fix Bugs Feature Branch into Develop [02:00hs]
+	Merge Luis Refactor Branch into Develop [01:00hs]
