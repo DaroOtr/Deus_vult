@@ -7,12 +7,12 @@ Horas en deuda [06.00hs]
 		Fix Player Coins Amount Update [1:35hs]
 		Añadir Funcionalidad de boton a las player coins (Inicio) [4:00hs]
 		
-13/12 : 2:25hs 
+13/12 : 04:25hs
 	Refactor Tienda [04:25hs]
 		Añadir Funcionalidad de boton a las player coins (Fin) [3:00hs]
 		Añadir Boton de promo y free coins [1:25hs]
 		
-16/12 : 2:25hs 
+16/12 : [06:35hs]
 	Refactor Tienda [06:35hs]
 		Fix Coins Position [00:25hs]
 		Fix Boton de promo y free coins scale and position [1:35hs]
