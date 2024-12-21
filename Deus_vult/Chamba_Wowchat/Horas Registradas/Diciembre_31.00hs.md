@@ -19,14 +19,14 @@ Horas en deuda [06.00hs]
 		Add Promo Button Logic and Back end Price [2:10hs]
 		Add Free Coins Button logic and Position [2:25hs]
 
-17/12 : 8:00hs 
-	Fix Room Generator Save Config [02:00hs]
-	Fix Room Generator Color Change [02:00hs]
+17/12 : 6:00hs 
+	Fix Room Generator Save Config [01:00hs]
+	Fix Room Generator Color Change [01:00hs]
 	Fix Room Generator Reset Room [04:00hs]
 
-18/12 : 4:00hs 
-	Merge Store Refactor Feature Branch into Develop [01:00hs]
-	Merge Room Generator Fix Bugs Feature Branch into Develop [02:00hs]
+18/12 : 6:00hs 
+	Merge Store Refactor Feature Branch into Develop [02:00hs]
+	Merge Room Generator Fix Bugs Feature Branch into Develop [03:00hs]
 	Merge Luis Refactor Branch into Develop [01:00hs]
 
 20/12 : 1:00hs 
