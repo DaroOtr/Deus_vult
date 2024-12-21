@@ -28,3 +28,6 @@ Horas en deuda [06.00hs]
 	Merge Store Refactor Feature Branch into Develop [01:00hs]
 	Merge Room Generator Fix Bugs Feature Branch into Develop [02:00hs]
 	Merge Luis Refactor Branch into Develop [01:00hs]
+
+20/12 : 1:00hs 
+	Armado del Doc de Screen Manager [01:00hs]
