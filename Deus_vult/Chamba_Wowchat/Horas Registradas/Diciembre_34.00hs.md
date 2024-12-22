@@ -32,5 +32,5 @@ Horas en deuda [06.00hs]
 20/12 : 1:00hs 
 	Armado del Doc de Screen Manager [01:00hs]
 
-22/12 : 1:00hs 
-	Armado del Back End [01:00hs]
+22/12 : 3:00hs 
+	Back End Task [03:00hs]
