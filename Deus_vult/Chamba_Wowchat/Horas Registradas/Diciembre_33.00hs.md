@@ -34,3 +34,6 @@ Horas en deuda [06.00hs]
 
 22/12 : 2:00hs 
 	Back End Task [02:00hs]
+
+30/12 : 2:00hs 
+	Fix Public Chat Task [02:00hs]
