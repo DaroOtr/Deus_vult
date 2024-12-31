@@ -38,5 +38,8 @@ Horas en deuda [06.00hs]
 30/12 : 4:00hs 
 	Fix Public Chat Task [04:00hs]
 
-31/12 : 4:00hs 
-	Fix Public Chat Task [04:00hs]
+31/12 : 8:00hs 
+	Remove Private Room ceiling [00:20hs]
+	Remove Private Room ceiling Logic [01:40hs]
+	Fix Furniture Configuration [01:40hs]
+	Fix Furniture Element Configuration [01:40hs]
