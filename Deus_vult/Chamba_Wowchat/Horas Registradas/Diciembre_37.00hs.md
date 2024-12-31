@@ -37,3 +37,6 @@ Horas en deuda [06.00hs]
 
 30/12 : 4:00hs 
 	Fix Public Chat Task [04:00hs]
+
+31/12 : 4:00hs 
+	Fix Public Chat Task [04:00hs]
