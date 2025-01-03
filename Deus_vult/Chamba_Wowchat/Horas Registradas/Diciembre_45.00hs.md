@@ -45,7 +45,7 @@ Horas en deuda [06.00hs]
 	Fix Furniture Element Configuration [01:40hs]
 	Add Furniture Element Container Info [02:00hs]
 
-03/01 : 4:00hs 
-	Fix Room Decorator Color and Texture Mismatch Error [04:00hs]
-	Fix Null Reference Errors [04:00hs]
-	Remove Textures Tab and logic from Room Decorator [04:00hs]
+03/01 : 5:00hs 
+	Fix Room Decorator Color and Texture Mismatch Error [01:00hs]
+	Fix Null Reference Errors [02:00hs]
+	Remove Textures Tab and logic from Room Decorator [02:00hs]
