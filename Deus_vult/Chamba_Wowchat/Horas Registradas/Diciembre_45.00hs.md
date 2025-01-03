@@ -33,7 +33,7 @@ Horas en deuda [06.00hs]
 	Armado del Doc de Screen Manager [01:00hs]
 
 22/12 : 2:00hs 
-	Back End Task [02:00hs]
+	Back End Task (W.I.P) [02:00hs]
 
 30/12 : 4:00hs 
 	Fix Public Chat Task [04:00hs]
